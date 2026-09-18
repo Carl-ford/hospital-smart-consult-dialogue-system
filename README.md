@@ -51,4 +51,4 @@ hospital-smart-consult-dialogue-system/
 1. 所有组员完成任务后，统一将素材交付给F、G，由两人整合撰写完整结题报告
 2. 交付前请自行检查内容逻辑、错别字、格式规范
 3. 仓库支持多人协作，可在 Settings → Collaborators 中添加组员
-4. 
+4.  上传文件请按仓库目录结构归类：文档放 docs/、图纸放 diagrams/，文件名与README规划保持一致，方便F、G整合时快速定位
