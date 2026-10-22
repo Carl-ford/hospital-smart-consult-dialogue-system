@@ -1,0 +1,37 @@
+# 临时/工作目录
+_work/
+.cache/
+.pylibs/
+.pptx_extract/
+.preview/
+.slidep/
+pptx_unzip/
+docs/_backup/
+.workbuddy/
+*.tmp
+
+# 临时文本文件
+.tmp_*.txt
+_git_status.txt
+_git_remote.txt
+
+# 脚本与提示词草稿
+add_images.py
+fix_content.py
+fix_img_size.py
+fix_pptx.py
+global_blue.py
+p4_beautify.py
+p4_cardwall.py
+p4_cardwall.md
+p4_prompt.md
+p4_v3.md
+p7_green.py
+p8_wbs.md
+豆包Prompt_*.md
+豆包用_*.md
+PPT美化_Skill选型清单_*.md
+
+# 预览图（可由 PPT 重新导出）
+预览_*.png
+预览_*.svg
