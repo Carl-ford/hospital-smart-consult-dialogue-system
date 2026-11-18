@@ -1,0 +1,313 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="5378" height="1034" viewBox="0 0 5378 1034" font-family="Microsoft YaHei,PingFang SC,sans-serif">
+<rect width="5378" height="1034" fill="#FFFFFF"/>
+<text x="2689.0" y="34" text-anchor="middle" font-size="24" font-weight="700" fill="#1F2D3D">网络图_AON_v2　医院门诊智能应答与对话系统（31 项活动 + 3 个里程碑，共 54 条依赖）</text>
+<text x="2689.0" y="60" text-anchor="middle" font-size="14" fill="#5A6B80">编制：钱智超　｜　v2（2026-10-26 修订：补全右端收尾链路 1.1.2/1.2.2/1.3.2/M3，修复 v1 右端裁切）　｜　口径：工期=《三点估算表_v1》期望工期 TE′（含能力系数 K 调整），CPM 六参数按 TE′ 重算，关键路径与 v1 一致</text>
+<text x="2689.0" y="80" text-anchor="middle" font-size="14" fill="#5A6B80">进度日历：2026-09-14（周一）开工，周一至周五工作制　｜　红色=关键路径（总工期 30.57 工作日，M3 ≈ 2026-10-27，早于 10-29 截止）</text>
+<path d="M 292 500.0 L 316.0 500.0 L 316.0 256.0 L 338 256.0" fill="none" stroke="#C0392B" stroke-width="3" marker-end="url(#arw)"/>
+<text x="318" y="494.0" font-size="12" fill="#C0392B" font-weight="400">FS</text>
+<path d="M 292 500.0 L 316.0 500.0 L 316.0 744.0 L 338 744.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="318" y="516.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<line x1="608" y1="256.0" x2="654" y2="256.0" stroke="#C0392B" stroke-width="3" marker-end="url(#arw)"/>
+<text x="634" y="272.0" font-size="12" fill="#C0392B" font-weight="400">FS</text>
+<path d="M 924 256.0 L 948.0 256.0 L 948.0 134.0 L 970 134.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="950" y="250.0" font-size="12" fill="#8496AD" font-weight="600">SS+1d</text>
+<path d="M 924 256.0 L 948.0 256.0 L 948.0 378.0 L 970 378.0" fill="none" stroke="#C0392B" stroke-width="3" marker-end="url(#arw)"/>
+<text x="950" y="272.0" font-size="12" fill="#C0392B" font-weight="400">FS</text>
+<path d="M 608 744.0 L 790.0 744.0 L 790.0 378.0 L 970 378.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="634" y="738.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 1240 134.0 L 1264.0 134.0 L 1264.0 500.0 L 1286 500.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="1266" y="150.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 1240 378.0 L 1264.0 378.0 L 1264.0 500.0 L 1286 500.0" fill="none" stroke="#C0392B" stroke-width="3" marker-end="url(#arw)"/>
+<text x="1266" y="394.0" font-size="12" fill="#C0392B" font-weight="400">FS</text>
+<path d="M 1556 500.0 L 1580.0 500.0 L 1580.0 256.0 L 1602 256.0" fill="none" stroke="#C0392B" stroke-width="3" marker-end="url(#arw)"/>
+<text x="1582" y="494.0" font-size="12" fill="#C0392B" font-weight="400">FS</text>
+<line x1="1556" y1="500.0" x2="1602" y2="500.0" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="1582" y="516.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 1556 500.0 L 1580.0 500.0 L 1580.0 866.0 L 1602 866.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="1582" y="516.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 1872 256.0 L 2054.0 256.0 L 2054.0 378.0 L 2234 378.0" fill="none" stroke="#C0392B" stroke-width="3" marker-end="url(#arw)"/>
+<text x="1898" y="272.0" font-size="12" fill="#C0392B" font-weight="400">FS</text>
+<path d="M 1872 256.0 L 1896.0 256.0 L 1896.0 134.0 L 1918 134.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="1898" y="250.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 1872 256.0 L 2054.0 256.0 L 2054.0 134.0 L 2234 134.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="1898" y="250.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 1872 256.0 L 1896.0 256.0 L 1896.0 378.0 L 1918 378.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="1898" y="272.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 1872 500.0 L 2054.0 500.0 L 2054.0 378.0 L 2234 378.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="1898" y="494.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 1872 500.0 L 1896.0 500.0 L 1896.0 378.0 L 1918 378.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="1898" y="494.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 1872 500.0 L 1896.0 500.0 L 1896.0 622.0 L 1918 622.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="1898" y="516.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<line x1="2188" y1="134.0" x2="2234" y2="134.0" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="2214" y="150.0" font-size="12" fill="#8496AD" font-weight="600">SS+1d</text>
+<path d="M 2080.8 96 L 2080.8 86 L 2343.2 86 L 2343.2 96" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="2212.0" y="81" text-anchor="middle" font-size="13" font-weight="600" fill="#7A8BA5">FF+1d</text>
+<line x1="2504" y1="134.0" x2="3182" y2="134.0" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="2530" y="150.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 2188 622.0 L 2844.0 622.0 L 2844.0 378.0 L 3498 378.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="2214" y="616.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 2188 378.0 L 2370.0 378.0 L 2370.0 622.0 L 2550 622.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="2214" y="394.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<line x1="2504" y1="378.0" x2="2550" y2="378.0" stroke="#C0392B" stroke-width="3" marker-end="url(#arw)"/>
+<text x="2530" y="394.0" font-size="12" fill="#C0392B" font-weight="400">FS</text>
+<path d="M 2504 378.0 L 2528.0 378.0 L 2528.0 622.0 L 2550 622.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="2530" y="394.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 2820 378.0 L 2844.0 378.0 L 2844.0 256.0 L 2866 256.0" fill="none" stroke="#C0392B" stroke-width="3" marker-end="url(#arw)"/>
+<text x="2846" y="372.0" font-size="12" fill="#C0392B" font-weight="400">FS</text>
+<path d="M 2820 378.0 L 2844.0 378.0 L 2844.0 500.0 L 2866 500.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="2846" y="394.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 2820 378.0 L 2844.0 378.0 L 2844.0 866.0 L 2866 866.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="2846" y="394.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 3136 256.0 L 3160.0 256.0 L 3160.0 134.0 L 3182 134.0" fill="none" stroke="#C0392B" stroke-width="3" marker-end="url(#arw)"/>
+<text x="3162" y="250.0" font-size="12" fill="#C0392B" font-weight="600">SS+1d</text>
+<path d="M 3452 134.0 L 3476.0 134.0 L 3476.0 378.0 L 3498 378.0" fill="none" stroke="#C0392B" stroke-width="3" marker-end="url(#arw)"/>
+<text x="3478" y="150.0" font-size="12" fill="#C0392B" font-weight="400">FS</text>
+<path d="M 2820 622.0 L 2844.0 622.0 L 2844.0 500.0 L 2866 500.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="2846" y="616.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 3136 500.0 L 3318.0 500.0 L 3318.0 378.0 L 3498 378.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="3162" y="494.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<line x1="1872" y1="866.0" x2="2866" y2="866.0" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="1898" y="882.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 3136 866.0 L 3318.0 866.0 L 3318.0 378.0 L 3498 378.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="3162" y="860.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 3768 378.0 L 3792.0 378.0 L 3792.0 256.0 L 3814 256.0" fill="none" stroke="#C0392B" stroke-width="3" marker-end="url(#arw)"/>
+<text x="3794" y="372.0" font-size="12" fill="#C0392B" font-weight="400">FS</text>
+<path d="M 3768 378.0 L 3792.0 378.0 L 3792.0 500.0 L 3814 500.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="3794" y="394.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 3768 378.0 L 3792.0 378.0 L 3792.0 866.0 L 3814 866.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="3794" y="394.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 3768 378.0 L 4108.0 378.0 L 4108.0 744.0 L 4446 744.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="3794" y="394.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 4084 500.0 L 4108.0 500.0 L 4108.0 256.0 L 4130 256.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="4110" y="494.0" font-size="12" fill="#8496AD" font-weight="600">SS+1d</text>
+<line x1="4084" y1="500.0" x2="4130" y2="500.0" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="4110" y="516.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<line x1="4084" y1="256.0" x2="4130" y2="256.0" stroke="#C0392B" stroke-width="3" marker-end="url(#arw)"/>
+<text x="4110" y="272.0" font-size="12" fill="#C0392B" font-weight="400">FS</text>
+<path d="M 4084 256.0 L 4108.0 256.0 L 4108.0 500.0 L 4130 500.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="4110" y="272.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<line x1="4400" y1="256.0" x2="4446" y2="256.0" stroke="#C0392B" stroke-width="3" marker-end="url(#arw)"/>
+<text x="4426" y="272.0" font-size="12" fill="#C0392B" font-weight="400">FS</text>
+<path d="M 4400 500.0 L 4424.0 500.0 L 4424.0 256.0 L 4446 256.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="4426" y="494.0" font-size="12" fill="#8496AD" font-weight="600">SS+1d</text>
+<path d="M 4400 500.0 L 4424.0 500.0 L 4424.0 622.0 L 4446 622.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="4426" y="516.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 4400 500.0 L 4424.0 500.0 L 4424.0 744.0 L 4446 744.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="4426" y="516.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<line x1="4716" y1="256.0" x2="4762" y2="256.0" stroke="#C0392B" stroke-width="3" marker-end="url(#arw)"/>
+<text x="4742" y="272.0" font-size="12" fill="#C0392B" font-weight="400">FS</text>
+<path d="M 4084 866.0 L 4266.0 866.0 L 4266.0 622.0 L 4446 622.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="4110" y="860.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<line x1="4084" y1="866.0" x2="4130" y2="866.0" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="4110" y="882.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<line x1="4716" y1="622.0" x2="4762" y2="622.0" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="4742" y="638.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 4400 866.0 L 4582.0 866.0 L 4582.0 622.0 L 4762 622.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="4426" y="860.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 4716 744.0 L 4740.0 744.0 L 4740.0 622.0 L 4762 622.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="4742" y="738.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<path d="M 5032 256.0 L 5056.0 256.0 L 5056.0 378.0 L 5078 378.0" fill="none" stroke="#C0392B" stroke-width="3" marker-end="url(#arw)"/>
+<text x="5058" y="272.0" font-size="12" fill="#C0392B" font-weight="400">FS</text>
+<path d="M 5032 622.0 L 5056.0 622.0 L 5056.0 378.0 L 5078 378.0" fill="none" stroke="#7A8BA5" stroke-width="1.6" marker-end="url(#arw)"/>
+<text x="5058" y="616.0" font-size="12" fill="#8496AD" font-weight="400">FS</text>
+<rect x="24" y="462" width="268" height="76" rx="5" fill="#FFF6DE" stroke="#C0392B" stroke-width="3"/>
+<text x="34" y="482" font-size="13.5" font-weight="700" fill="#1F2D3D">[1.1.1] 项目章程与治理基线编制</text>
+<text x="282" y="482" text-anchor="end" font-size="11.5" fill="#B7791F">★关键</text>
+<text x="34" y="500" font-size="12.5" fill="#3D4C5E">责任人：杨卓屹（管理总控）</text>
+<text x="282" y="500" text-anchor="end" font-size="11.5" font-style="italic" fill="#B7791F">«Critical»</text>
+<text x="34" y="518" font-size="11.5" fill="#5A6B80">TE′=2.03d｜ES=0.00｜EF=2.03</text>
+<text x="34" y="533" font-size="11.5" fill="#5A6B80">LS=0.00｜LF=2.03｜TF=0.00｜FF=0.00</text>
+<rect x="340" y="218" width="268" height="76" rx="5" fill="#FFF6DE" stroke="#C0392B" stroke-width="3"/>
+<text x="350" y="238" font-size="13.5" font-weight="700" fill="#1F2D3D">[2.1.1] 项目目标与范围边界说明</text>
+<text x="598" y="238" text-anchor="end" font-size="11.5" fill="#B7791F">★关键</text>
+<text x="350" y="256" font-size="12.5" fill="#3D4C5E">责任人：蒋诗韵（范围与用例）</text>
+<text x="598" y="256" text-anchor="end" font-size="11.5" font-style="italic" fill="#B7791F">«Critical»</text>
+<text x="350" y="274" font-size="11.5" fill="#5A6B80">TE′=1.98d｜ES=2.03｜EF=4.01</text>
+<text x="350" y="289" font-size="11.5" fill="#5A6B80">LS=2.03｜LF=4.01｜TF=0.00｜FF=0.00</text>
+<rect x="340" y="706" width="268" height="76" rx="5" fill="#EEF3FB" stroke="#7A8BA5" stroke-width="1.6"/>
+<text x="350" y="726" font-size="13.5" font-weight="700" fill="#1F2D3D">[4.4.1] 迈尔斯心理模型(MBT…</text>
+<text x="350" y="744" font-size="12.5" fill="#3D4C5E">责任人：詹少希（度量与性格）</text>
+<text x="350" y="762" font-size="11.5" fill="#5A6B80">TE′=2.06d｜ES=2.03｜EF=4.09</text>
+<text x="350" y="777" font-size="11.5" fill="#5A6B80">LS=4.00｜LF=6.06｜TF=1.97｜FF=1.97</text>
+<rect x="656" y="218" width="268" height="76" rx="5" fill="#FFF6DE" stroke="#C0392B" stroke-width="3"/>
+<text x="666" y="238" font-size="13.5" font-weight="700" fill="#1F2D3D">[4.1.1] 细化WBS词典与工作包…</text>
+<text x="914" y="238" text-anchor="end" font-size="11.5" fill="#B7791F">★关键</text>
+<text x="666" y="256" font-size="12.5" fill="#3D4C5E">责任人：钱智超（进度与风险）</text>
+<text x="914" y="256" text-anchor="end" font-size="11.5" font-style="italic" fill="#B7791F">«Critical»</text>
+<text x="666" y="274" font-size="11.5" fill="#5A6B80">TE′=2.05d｜ES=4.01｜EF=6.06</text>
+<text x="666" y="289" font-size="11.5" fill="#5A6B80">LS=4.01｜LF=6.06｜TF=0.00｜FF=0.00</text>
+<rect x="972" y="96" width="268" height="76" rx="5" fill="#EEF3FB" stroke="#7A8BA5" stroke-width="1.6"/>
+<text x="982" y="116" font-size="13.5" font-weight="700" fill="#1F2D3D">[4.1.2] AON网络图与关键路径…</text>
+<text x="982" y="134" font-size="12.5" fill="#3D4C5E">责任人：钱智超（进度与风险）</text>
+<text x="982" y="152" font-size="11.5" fill="#5A6B80">TE′=2.05d｜ES=5.01｜EF=7.06</text>
+<text x="982" y="167" font-size="11.5" fill="#5A6B80">LS=6.19｜LF=8.24｜TF=1.18｜FF=1.18</text>
+<rect x="972" y="340" width="268" height="76" rx="5" fill="#FFF6DE" stroke="#C0392B" stroke-width="3"/>
+<text x="982" y="360" font-size="13.5" font-weight="700" fill="#1F2D3D">[4.4.2] 角色能力系数表与任务接…</text>
+<text x="1230" y="360" text-anchor="end" font-size="11.5" fill="#B7791F">★关键</text>
+<text x="982" y="378" font-size="12.5" fill="#3D4C5E">责任人：詹少希（度量与性格）</text>
+<text x="1230" y="378" text-anchor="end" font-size="11.5" font-style="italic" fill="#B7791F">«Critical»</text>
+<text x="982" y="396" font-size="11.5" fill="#5A6B80">TE′=2.18d｜ES=6.06｜EF=8.24</text>
+<text x="982" y="411" font-size="11.5" fill="#5A6B80">LS=6.06｜LF=8.24｜TF=0.00｜FF=0.00</text>
+<rect x="1288" y="469" width="268" height="62" rx="6" fill="#FFF6DE" stroke="#C0392B" stroke-width="3"/>
+<text x="1422.0" y="488" text-anchor="middle" font-size="12.5" font-style="italic" fill="#C0392B">«Milestone»</text>
+<text x="1422.0" y="508" text-anchor="middle" font-size="15" font-weight="700" fill="#1F2D3D">◆ M1 WBS三章批准</text>
+<text x="1422.0" y="526" text-anchor="middle" font-size="12.5" fill="#5A6B80">责任人：杨卓屹　日期≈ 09-24　ES=8.24</text>
+<rect x="1604" y="218" width="268" height="76" rx="5" fill="#FFF6DE" stroke="#C0392B" stroke-width="3"/>
+<text x="1614" y="238" font-size="13.5" font-weight="700" fill="#1F2D3D">[2.1.2] 业务用例图与用例说明</text>
+<text x="1862" y="238" text-anchor="end" font-size="11.5" fill="#B7791F">★关键</text>
+<text x="1614" y="256" font-size="12.5" fill="#3D4C5E">责任人：蒋诗韵（范围与用例）</text>
+<text x="1862" y="256" text-anchor="end" font-size="11.5" font-style="italic" fill="#B7791F">«Critical»</text>
+<text x="1614" y="274" font-size="11.5" fill="#5A6B80">TE′=3.10d｜ES=8.24｜EF=11.34</text>
+<text x="1614" y="289" font-size="11.5" fill="#5A6B80">LS=8.24｜LF=11.34｜TF=0.00｜FF=0.00</text>
+<rect x="1604" y="462" width="268" height="76" rx="5" fill="#EEF3FB" stroke="#7A8BA5" stroke-width="1.6"/>
+<text x="1614" y="482" font-size="13.5" font-weight="700" fill="#1F2D3D">[2.3.1] 三类目标与七项知识域建…</text>
+<text x="1614" y="500" font-size="12.5" fill="#3D4C5E">责任人：何亭玉（知识域）</text>
+<text x="1614" y="518" font-size="11.5" fill="#5A6B80">TE′=2.14d｜ES=8.24｜EF=10.38</text>
+<text x="1614" y="533" font-size="11.5" fill="#5A6B80">LS=9.20｜LF=11.34｜TF=0.96｜FF=0.00</text>
+<rect x="1604" y="828" width="268" height="76" rx="5" fill="#EEF3FB" stroke="#7A8BA5" stroke-width="1.6"/>
+<text x="1614" y="848" font-size="13.5" font-weight="700" fill="#1F2D3D">[4.3.1] 全周期风险识别与定级</text>
+<text x="1614" y="866" font-size="12.5" fill="#3D4C5E">责任人：钱智超（进度与风险）</text>
+<text x="1614" y="884" font-size="11.5" fill="#5A6B80">TE′=1.97d｜ES=8.24｜EF=10.21</text>
+<text x="1614" y="899" font-size="11.5" fill="#5A6B80">LS=16.68｜LF=18.65｜TF=8.44｜FF=7.46</text>
+<rect x="1920" y="96" width="268" height="76" rx="5" fill="#EEF3FB" stroke="#7A8BA5" stroke-width="1.6"/>
+<text x="1930" y="116" font-size="13.5" font-weight="700" fill="#1F2D3D">[2.2.1] 场景一门诊流程咨询活动…</text>
+<text x="1930" y="134" font-size="12.5" fill="#3D4C5E">责任人：蒋诗韵（范围与用例）</text>
+<text x="1930" y="152" font-size="11.5" fill="#5A6B80">TE′=2.10d｜ES=11.34｜EF=13.44</text>
+<text x="1930" y="167" font-size="11.5" fill="#5A6B80">LS=15.57｜LF=17.67｜TF=4.23｜FF=0.00</text>
+<rect x="1920" y="340" width="268" height="76" rx="5" fill="#EEF3FB" stroke="#7A8BA5" stroke-width="1.6"/>
+<text x="1930" y="360" font-size="13.5" font-weight="700" fill="#1F2D3D">[2.3.2] 知识条目与标准答复映射</text>
+<text x="1930" y="378" font-size="12.5" fill="#3D4C5E">责任人：何亭玉（知识域）</text>
+<text x="1930" y="396" font-size="11.5" fill="#5A6B80">TE′=2.14d｜ES=11.34｜EF=13.48</text>
+<text x="1930" y="411" font-size="11.5" fill="#5A6B80">LS=14.23｜LF=16.37｜TF=2.89｜FF=1.02</text>
+<rect x="1920" y="584" width="268" height="76" rx="5" fill="#EEF3FB" stroke="#7A8BA5" stroke-width="1.6"/>
+<text x="1930" y="604" font-size="13.5" font-weight="700" fill="#1F2D3D">[2.1.3] 需求范围双向追踪矩阵</text>
+<text x="1930" y="622" font-size="12.5" fill="#3D4C5E">责任人：蒋诗韵（范围与用例）</text>
+<text x="1930" y="640" font-size="11.5" fill="#5A6B80">TE′=1.98d｜ES=10.38｜EF=12.36</text>
+<text x="1930" y="655" font-size="11.5" fill="#5A6B80">LS=18.72｜LF=20.70｜TF=8.34｜FF=8.34</text>
+<rect x="2236" y="96" width="268" height="76" rx="5" fill="#EEF3FB" stroke="#7A8BA5" stroke-width="1.6"/>
+<text x="2246" y="116" font-size="13.5" font-weight="700" fill="#1F2D3D">[2.2.2] 场景二知识库维护活动图</text>
+<text x="2246" y="134" font-size="12.5" fill="#3D4C5E">责任人：蒋诗韵（范围与用例）</text>
+<text x="2246" y="152" font-size="11.5" fill="#5A6B80">TE′=2.06d｜ES=12.38｜EF=14.44</text>
+<text x="2246" y="167" font-size="11.5" fill="#5A6B80">LS=16.61｜LF=18.67｜TF=4.23｜FF=4.23</text>
+<rect x="2236" y="340" width="268" height="76" rx="5" fill="#FFF6DE" stroke="#C0392B" stroke-width="3"/>
+<text x="2246" y="360" font-size="13.5" font-weight="700" fill="#1F2D3D">[3.1.1] 门诊对话领域模型设计</text>
+<text x="2494" y="360" text-anchor="end" font-size="11.5" fill="#B7791F">★关键</text>
+<text x="2246" y="378" font-size="12.5" fill="#3D4C5E">责任人：王宇坤（建模）</text>
+<text x="2494" y="378" text-anchor="end" font-size="11.5" font-style="italic" fill="#B7791F">«Critical»</text>
+<text x="2246" y="396" font-size="11.5" fill="#5A6B80">TE′=3.16d｜ES=11.34｜EF=14.50</text>
+<text x="2246" y="411" font-size="11.5" fill="#5A6B80">LS=11.34｜LF=14.50｜TF=0.00｜FF=0.00</text>
+<rect x="2552" y="340" width="268" height="76" rx="5" fill="#FFF6DE" stroke="#C0392B" stroke-width="3"/>
+<text x="2562" y="360" font-size="13.5" font-weight="700" fill="#1F2D3D">[3.1.2] 核心类图与接口方法定义</text>
+<text x="2810" y="360" text-anchor="end" font-size="11.5" fill="#B7791F">★关键</text>
+<text x="2562" y="378" font-size="12.5" fill="#3D4C5E">责任人：王宇坤（建模）</text>
+<text x="2810" y="378" text-anchor="end" font-size="11.5" font-style="italic" fill="#B7791F">«Critical»</text>
+<text x="2562" y="396" font-size="11.5" fill="#5A6B80">TE′=3.17d｜ES=14.50｜EF=17.67</text>
+<text x="2562" y="411" font-size="11.5" fill="#5A6B80">LS=14.50｜LF=17.67｜TF=0.00｜FF=0.00</text>
+<rect x="2552" y="584" width="268" height="76" rx="5" fill="#EEF3FB" stroke="#7A8BA5" stroke-width="1.6"/>
+<text x="2562" y="604" font-size="13.5" font-weight="700" fill="#1F2D3D">[3.3.1] 四个关键问题四段式分析</text>
+<text x="2562" y="622" font-size="12.5" fill="#3D4C5E">责任人：张天乐（技术路线）</text>
+<text x="2562" y="640" font-size="11.5" fill="#5A6B80">TE′=2.16d｜ES=14.50｜EF=16.66</text>
+<text x="2562" y="655" font-size="11.5" fill="#5A6B80">LS=16.37｜LF=18.53｜TF=1.87｜FF=1.01</text>
+<rect x="2868" y="218" width="268" height="76" rx="5" fill="#FFF6DE" stroke="#C0392B" stroke-width="3"/>
+<text x="2878" y="238" font-size="13.5" font-weight="700" fill="#1F2D3D">[3.2.1] 场景一门诊咨询时序图</text>
+<text x="3126" y="238" text-anchor="end" font-size="11.5" fill="#B7791F">★关键</text>
+<text x="2878" y="256" font-size="12.5" fill="#3D4C5E">责任人：王宇坤（建模）</text>
+<text x="3126" y="256" text-anchor="end" font-size="11.5" font-style="italic" fill="#B7791F">«Critical»</text>
+<text x="2878" y="274" font-size="11.5" fill="#5A6B80">TE′=2.03d｜ES=17.67｜EF=19.70</text>
+<text x="2878" y="289" font-size="11.5" fill="#5A6B80">LS=17.67｜LF=19.70｜TF=0.00｜FF=0.00</text>
+<rect x="2868" y="462" width="268" height="76" rx="5" fill="#EEF3FB" stroke="#7A8BA5" stroke-width="1.6"/>
+<text x="2878" y="482" font-size="13.5" font-weight="700" fill="#1F2D3D">[3.3.2] 三层技术路线与工具选型</text>
+<text x="2878" y="500" font-size="12.5" fill="#3D4C5E">责任人：张天乐（技术路线）</text>
+<text x="2878" y="518" font-size="11.5" fill="#5A6B80">TE′=2.17d｜ES=17.67｜EF=19.84</text>
+<text x="2878" y="533" font-size="11.5" fill="#5A6B80">LS=18.53｜LF=20.70｜TF=0.86｜FF=0.86</text>
+<rect x="2868" y="828" width="268" height="76" rx="5" fill="#EEF3FB" stroke="#7A8BA5" stroke-width="1.6"/>
+<text x="2878" y="848" font-size="13.5" font-weight="700" fill="#1F2D3D">[4.3.2] 风险应对策略与登记册闭…</text>
+<text x="2878" y="866" font-size="12.5" fill="#3D4C5E">责任人：钱智超（进度与风险）</text>
+<text x="2878" y="884" font-size="11.5" fill="#5A6B80">TE′=2.05d｜ES=17.67｜EF=19.72</text>
+<text x="2878" y="899" font-size="11.5" fill="#5A6B80">LS=18.65｜LF=20.70｜TF=0.98｜FF=0.98</text>
+<rect x="3184" y="96" width="268" height="76" rx="5" fill="#FFF6DE" stroke="#C0392B" stroke-width="3"/>
+<text x="3194" y="116" font-size="13.5" font-weight="700" fill="#1F2D3D">[3.2.2] 场景二知识库维护时序图</text>
+<text x="3442" y="116" text-anchor="end" font-size="11.5" fill="#B7791F">★关键</text>
+<text x="3194" y="134" font-size="12.5" fill="#3D4C5E">责任人：王宇坤（建模）</text>
+<text x="3442" y="134" text-anchor="end" font-size="11.5" font-style="italic" fill="#B7791F">«Critical»</text>
+<text x="3194" y="152" font-size="11.5" fill="#5A6B80">TE′=2.03d｜ES=18.67｜EF=20.70</text>
+<text x="3194" y="167" font-size="11.5" fill="#5A6B80">LS=18.67｜LF=20.70｜TF=0.00｜FF=0.00</text>
+<rect x="3500" y="347" width="268" height="62" rx="6" fill="#FFF6DE" stroke="#C0392B" stroke-width="3"/>
+<text x="3634.0" y="366" text-anchor="middle" font-size="12.5" font-style="italic" fill="#C0392B">«Milestone»</text>
+<text x="3634.0" y="386" text-anchor="middle" font-size="15" font-weight="700" fill="#1F2D3D">◆ M2 系统原型方案评审通过</text>
+<text x="3634.0" y="404" text-anchor="middle" font-size="12.5" fill="#5A6B80">责任人：杨卓屹　日期≈ 10-13　ES=20.70</text>
+<rect x="3816" y="218" width="268" height="76" rx="5" fill="#FFF6DE" stroke="#C0392B" stroke-width="3"/>
+<text x="3826" y="238" font-size="13.5" font-weight="700" fill="#1F2D3D">[2.2.3] 任务资源预分配表(人力…</text>
+<text x="4074" y="238" text-anchor="end" font-size="11.5" fill="#B7791F">★关键</text>
+<text x="3826" y="256" font-size="12.5" fill="#3D4C5E">责任人：蒋诗韵（范围与用例）</text>
+<text x="4074" y="256" text-anchor="end" font-size="11.5" font-style="italic" fill="#B7791F">«Critical»</text>
+<text x="3826" y="274" font-size="11.5" fill="#5A6B80">TE′=2.06d｜ES=20.70｜EF=22.76</text>
+<text x="3826" y="289" font-size="11.5" fill="#5A6B80">LS=20.70｜LF=22.76｜TF=0.00｜FF=0.00</text>
+<rect x="3816" y="462" width="268" height="76" rx="5" fill="#EEF3FB" stroke="#7A8BA5" stroke-width="1.6"/>
+<text x="3826" y="482" font-size="13.5" font-weight="700" fill="#1F2D3D">[4.2.1] PERT三点估算表编制</text>
+<text x="3826" y="500" font-size="12.5" fill="#3D4C5E">责任人：钱智超（进度与风险）</text>
+<text x="3826" y="518" font-size="11.5" fill="#5A6B80">TE′=2.06d｜ES=20.70｜EF=22.76</text>
+<text x="3826" y="533" font-size="11.5" fill="#5A6B80">LS=21.76｜LF=23.82｜TF=1.06｜FF=0.00</text>
+<rect x="3816" y="828" width="268" height="76" rx="5" fill="#EEF3FB" stroke="#7A8BA5" stroke-width="1.6"/>
+<text x="3826" y="848" font-size="13.5" font-weight="700" fill="#1F2D3D">[1.2.1] 汇报提纲与叙事逻辑设计</text>
+<text x="3826" y="866" font-size="12.5" fill="#3D4C5E">责任人：林泽楷（汇报）</text>
+<text x="3826" y="884" font-size="11.5" fill="#5A6B80">TE′=2.14d｜ES=20.70｜EF=22.84</text>
+<text x="3826" y="899" font-size="11.5" fill="#5A6B80">LS=24.06｜LF=26.20｜TF=3.36｜FF=0.00</text>
+<rect x="4132" y="218" width="268" height="76" rx="5" fill="#FFF6DE" stroke="#C0392B" stroke-width="3"/>
+<text x="4142" y="238" font-size="13.5" font-weight="700" fill="#1F2D3D">[2.3.3] 成本费率与蒙特卡洛估算</text>
+<text x="4390" y="238" text-anchor="end" font-size="11.5" fill="#B7791F">★关键</text>
+<text x="4142" y="256" font-size="12.5" fill="#3D4C5E">责任人：何亭玉（知识域）</text>
+<text x="4390" y="256" text-anchor="end" font-size="11.5" font-style="italic" fill="#B7791F">«Critical»</text>
+<text x="4142" y="274" font-size="11.5" fill="#5A6B80">TE′=2.28d｜ES=22.76｜EF=25.04</text>
+<text x="4142" y="289" font-size="11.5" fill="#5A6B80">LS=22.76｜LF=25.04｜TF=0.00｜FF=0.00</text>
+<rect x="4132" y="462" width="268" height="76" rx="5" fill="#EEF3FB" stroke="#7A8BA5" stroke-width="1.6"/>
+<text x="4142" y="482" font-size="13.5" font-weight="700" fill="#1F2D3D">[4.2.2] 项目调度计划与甘特图绘…</text>
+<text x="4142" y="500" font-size="12.5" fill="#3D4C5E">责任人：钱智超（进度与风险）</text>
+<text x="4142" y="518" font-size="11.5" fill="#5A6B80">TE′=2.05d｜ES=22.76｜EF=24.81</text>
+<text x="4142" y="533" font-size="11.5" fill="#5A6B80">LS=24.04｜LF=26.09｜TF=1.28｜FF=0.00</text>
+<rect x="4132" y="828" width="268" height="76" rx="5" fill="#EEF3FB" stroke="#7A8BA5" stroke-width="1.6"/>
+<text x="4142" y="848" font-size="13.5" font-weight="700" fill="#1F2D3D">[1.2.2] 逐页讲稿撰写与答辩题库</text>
+<text x="4390" y="848" text-anchor="end" font-size="11.5" fill="#B7791F">★关键</text>
+<text x="4142" y="866" font-size="12.5" fill="#3D4C5E">责任人：林泽楷（汇报）</text>
+<text x="4142" y="884" font-size="11.5" fill="#5A6B80">TE′=2.22d｜ES=22.84｜EF=25.06</text>
+<text x="4142" y="899" font-size="11.5" fill="#5A6B80">LS=26.20｜LF=28.42｜TF=3.36｜FF=1.87</text>
+<rect x="4448" y="218" width="268" height="76" rx="5" fill="#FFF6DE" stroke="#C0392B" stroke-width="3"/>
+<text x="4458" y="238" font-size="13.5" font-weight="700" fill="#1F2D3D">[3.2.3] 时间成本双目标动态规划…</text>
+<text x="4706" y="238" text-anchor="end" font-size="11.5" fill="#B7791F">★关键</text>
+<text x="4458" y="256" font-size="12.5" fill="#3D4C5E">责任人：王宇坤（建模）</text>
+<text x="4706" y="256" text-anchor="end" font-size="11.5" font-style="italic" fill="#B7791F">«Critical»</text>
+<text x="4458" y="274" font-size="11.5" fill="#5A6B80">TE′=3.23d｜ES=25.04｜EF=28.27</text>
+<text x="4458" y="289" font-size="11.5" fill="#5A6B80">LS=25.04｜LF=28.27｜TF=0.00｜FF=0.00</text>
+<rect x="4448" y="584" width="268" height="76" rx="5" fill="#EEF3FB" stroke="#7A8BA5" stroke-width="1.6"/>
+<text x="4458" y="604" font-size="13.5" font-weight="700" fill="#1F2D3D">[1.3.1] 汇报PPT白模框架搭建</text>
+<text x="4458" y="622" font-size="12.5" fill="#3D4C5E">责任人：杨卓屹（管理总控）</text>
+<text x="4458" y="640" font-size="11.5" fill="#5A6B80">TE′=2.06d｜ES=24.81｜EF=26.87</text>
+<text x="4458" y="655" font-size="11.5" fill="#5A6B80">LS=26.36｜LF=28.42｜TF=1.55｜FF=0.06</text>
+<rect x="4448" y="706" width="268" height="76" rx="5" fill="#EEF3FB" stroke="#7A8BA5" stroke-width="1.6"/>
+<text x="4458" y="726" font-size="13.5" font-weight="700" fill="#1F2D3D">[1.1.2] 项目管理计划汇编与总审</text>
+<text x="4706" y="726" text-anchor="end" font-size="11.5" fill="#B7791F">★关键</text>
+<text x="4458" y="744" font-size="12.5" fill="#3D4C5E">责任人：杨卓屹（管理总控）</text>
+<text x="4458" y="762" font-size="11.5" fill="#5A6B80">TE′=2.12d｜ES=24.81｜EF=26.93</text>
+<text x="4458" y="777" font-size="11.5" fill="#5A6B80">LS=26.30｜LF=28.42｜TF=1.49｜FF=0.00</text>
+<rect x="4764" y="218" width="268" height="76" rx="5" fill="#FFF6DE" stroke="#C0392B" stroke-width="3"/>
+<text x="4774" y="238" font-size="13.5" font-weight="700" fill="#1F2D3D">[3.3.3] 动态规划扰动法求解与验…</text>
+<text x="5022" y="238" text-anchor="end" font-size="11.5" fill="#B7791F">★关键</text>
+<text x="4774" y="256" font-size="12.5" fill="#3D4C5E">责任人：张天乐（技术路线）</text>
+<text x="5022" y="256" text-anchor="end" font-size="11.5" font-style="italic" fill="#B7791F">«Critical»</text>
+<text x="4774" y="274" font-size="11.5" fill="#5A6B80">TE′=2.30d｜ES=28.27｜EF=30.57</text>
+<text x="4774" y="289" font-size="11.5" fill="#5A6B80">LS=28.27｜LF=30.57｜TF=0.00｜FF=0.00</text>
+<rect x="4764" y="584" width="268" height="76" rx="5" fill="#EEF3FB" stroke="#7A8BA5" stroke-width="1.6"/>
+<text x="4774" y="604" font-size="13.5" font-weight="700" fill="#1F2D3D">[1.3.2] 汇报PPT全案定稿与预…</text>
+<text x="5022" y="604" text-anchor="end" font-size="11.5" fill="#B7791F">★关键</text>
+<text x="4774" y="622" font-size="12.5" fill="#3D4C5E">责任人：杨卓屹（管理总控）</text>
+<text x="4774" y="640" font-size="11.5" fill="#5A6B80">TE′=2.15d｜ES=26.93｜EF=29.08</text>
+<text x="4774" y="655" font-size="11.5" fill="#5A6B80">LS=28.42｜LF=30.57｜TF=1.49｜FF=1.49</text>
+<rect x="5080" y="347" width="268" height="62" rx="6" fill="#FFF6DE" stroke="#C0392B" stroke-width="3"/>
+<text x="5214.0" y="366" text-anchor="middle" font-size="12.5" font-style="italic" fill="#C0392B">«Milestone»</text>
+<text x="5214.0" y="386" text-anchor="middle" font-size="15" font-weight="700" fill="#1F2D3D">◆ M3 提交作业/项目收尾</text>
+<text x="5214.0" y="404" text-anchor="middle" font-size="12.5" fill="#5A6B80">责任人：杨卓屹　日期≈ 10-27　ES=30.57</text>
+<text x="24" y="994" font-size="13" fill="#5A6B80">图例：<tspan fill="#C0392B" font-weight="700">━ 关键路径</tspan>（红色节点=关键活动 «Critical»，★关键=WBS 一包一人关键工作包标识）　灰色=非关键（TF&gt;0，可利用总时差错峰，见 RSK-214）　SS+1d/FF+1d=搭接关系</text>
+<text x="24" y="1016" font-size="13" fill="#5A6B80">依据：钱智超《三点估算表_v1》（TE′/σ²）、詹少希《能力系数表_v1》（K 值）、蒋诗韵《资源预分配表_人力_v2》（一包一人）；依赖关系承接《网络图_AON_v1》并经 CPM 六参数逐节点复核（30/30 一致）。</text>
+<defs><marker id="arw" markerWidth="9" markerHeight="9" refX="7" refY="3.5" orient="auto"><path d="M0,0 L8,3.5 L0,7 Z" fill="context-stroke"/></marker></defs>
+</svg>

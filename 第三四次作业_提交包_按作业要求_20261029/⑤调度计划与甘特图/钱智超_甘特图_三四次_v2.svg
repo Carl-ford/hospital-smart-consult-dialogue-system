@@ -1,0 +1,342 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2128" height="1282" viewBox="0 0 2128 1282" font-family="Microsoft YaHei,PingFang SC,sans-serif">
+<rect width="2128" height="1282" fill="#FFFFFF"/>
+<text x="1064.0" y="30" text-anchor="middle" font-size="24" font-weight="700" fill="#1F2D3D">甘特图_三四次_v2　医院门诊智能应答与对话系统 项目调度计划（2026-09-14 ~ 2026-10-30）</text>
+<text x="1064.0" y="54" text-anchor="middle" font-size="14" fill="#5A6B80">编制：钱智超　｜　v2（2026-10-26 修订：条长统一采用《三点估算表_v1》TE′，修复 v1 工期与三点估算表不一致；日期按周一~周五工作日历映射）</text>
+<text x="1064.0" y="74" text-anchor="middle" font-size="13.5" fill="#5A6B80">关键路径（红）：1.1.1→2.1.1→4.1.1→4.4.2→M1→2.1.2→3.1.1→3.1.2→3.2.1→3.2.2→M2→2.2.3→2.3.3→3.2.3→3.3.3→M3，总工期 30.57 工作日，M3≈10-27，早于 10-29 提交截止</text>
+<rect x="0" y="110" width="476" height="26" fill="#E9F4EF"/>
+<text x="12" y="128" font-size="13.5" font-weight="700" fill="#1D6F5C">WBS / 活动名称（责任人，TE′）</text>
+<text x="380" y="128" font-size="12.5" font-weight="700" fill="#1D6F5C">Start</text>
+<text x="430" y="128" font-size="12.5" font-weight="700" fill="#1D6F5C">End</text>
+<text x="502" y="106" font-size="12.5" font-weight="700" fill="#1F2D3D">9月</text>
+<text x="517.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">14</text>
+<text x="517.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">一</text>
+<line x1="500" y1="110" x2="500" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="551.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">15</text>
+<text x="551.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">二</text>
+<line x1="534" y1="110" x2="534" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="585.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">16</text>
+<text x="585.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">三</text>
+<line x1="568" y1="110" x2="568" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="619.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">17</text>
+<text x="619.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">四</text>
+<line x1="602" y1="110" x2="602" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="653.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">18</text>
+<text x="653.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">五</text>
+<line x1="636" y1="110" x2="636" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<rect x="670" y="110" width="34" height="1106" fill="#F2F4F7"/>
+<text x="687.0" y="122" text-anchor="middle" font-size="11" fill="#C0392B">19</text>
+<text x="687.0" y="134" text-anchor="middle" font-size="10.5" fill="#C0392B">六</text>
+<line x1="670" y1="110" x2="670" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<rect x="704" y="110" width="34" height="1106" fill="#F2F4F7"/>
+<text x="721.0" y="122" text-anchor="middle" font-size="11" fill="#C0392B">20</text>
+<text x="721.0" y="134" text-anchor="middle" font-size="10.5" fill="#C0392B">日</text>
+<line x1="704" y1="110" x2="704" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="755.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">21</text>
+<text x="755.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">一</text>
+<line x1="738" y1="110" x2="738" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="789.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">22</text>
+<text x="789.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">二</text>
+<line x1="772" y1="110" x2="772" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="823.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">23</text>
+<text x="823.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">三</text>
+<line x1="806" y1="110" x2="806" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="857.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">24</text>
+<text x="857.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">四</text>
+<line x1="840" y1="110" x2="840" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="891.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">25</text>
+<text x="891.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">五</text>
+<line x1="874" y1="110" x2="874" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<rect x="908" y="110" width="34" height="1106" fill="#F2F4F7"/>
+<text x="925.0" y="122" text-anchor="middle" font-size="11" fill="#C0392B">26</text>
+<text x="925.0" y="134" text-anchor="middle" font-size="10.5" fill="#C0392B">六</text>
+<line x1="908" y1="110" x2="908" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<rect x="942" y="110" width="34" height="1106" fill="#F2F4F7"/>
+<text x="959.0" y="122" text-anchor="middle" font-size="11" fill="#C0392B">27</text>
+<text x="959.0" y="134" text-anchor="middle" font-size="10.5" fill="#C0392B">日</text>
+<line x1="942" y1="110" x2="942" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="993.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">28</text>
+<text x="993.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">一</text>
+<line x1="976" y1="110" x2="976" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="1027.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">29</text>
+<text x="1027.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">二</text>
+<line x1="1010" y1="110" x2="1010" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="1061.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">30</text>
+<text x="1061.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">三</text>
+<line x1="1044" y1="110" x2="1044" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="1080" y="106" font-size="12.5" font-weight="700" fill="#1F2D3D">10月</text>
+<text x="1095.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">1</text>
+<text x="1095.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">四</text>
+<line x1="1078" y1="110" x2="1078" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="1129.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">2</text>
+<text x="1129.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">五</text>
+<line x1="1112" y1="110" x2="1112" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<rect x="1146" y="110" width="34" height="1106" fill="#F2F4F7"/>
+<text x="1163.0" y="122" text-anchor="middle" font-size="11" fill="#C0392B">3</text>
+<text x="1163.0" y="134" text-anchor="middle" font-size="10.5" fill="#C0392B">六</text>
+<line x1="1146" y1="110" x2="1146" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<rect x="1180" y="110" width="34" height="1106" fill="#F2F4F7"/>
+<text x="1197.0" y="122" text-anchor="middle" font-size="11" fill="#C0392B">4</text>
+<text x="1197.0" y="134" text-anchor="middle" font-size="10.5" fill="#C0392B">日</text>
+<line x1="1180" y1="110" x2="1180" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="1231.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">5</text>
+<text x="1231.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">一</text>
+<line x1="1214" y1="110" x2="1214" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="1265.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">6</text>
+<text x="1265.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">二</text>
+<line x1="1248" y1="110" x2="1248" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="1299.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">7</text>
+<text x="1299.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">三</text>
+<line x1="1282" y1="110" x2="1282" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="1333.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">8</text>
+<text x="1333.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">四</text>
+<line x1="1316" y1="110" x2="1316" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="1367.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">9</text>
+<text x="1367.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">五</text>
+<line x1="1350" y1="110" x2="1350" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<rect x="1384" y="110" width="34" height="1106" fill="#F2F4F7"/>
+<text x="1401.0" y="122" text-anchor="middle" font-size="11" fill="#C0392B">10</text>
+<text x="1401.0" y="134" text-anchor="middle" font-size="10.5" fill="#C0392B">六</text>
+<line x1="1384" y1="110" x2="1384" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<rect x="1418" y="110" width="34" height="1106" fill="#F2F4F7"/>
+<text x="1435.0" y="122" text-anchor="middle" font-size="11" fill="#C0392B">11</text>
+<text x="1435.0" y="134" text-anchor="middle" font-size="10.5" fill="#C0392B">日</text>
+<line x1="1418" y1="110" x2="1418" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="1469.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">12</text>
+<text x="1469.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">一</text>
+<line x1="1452" y1="110" x2="1452" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="1503.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">13</text>
+<text x="1503.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">二</text>
+<line x1="1486" y1="110" x2="1486" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="1537.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">14</text>
+<text x="1537.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">三</text>
+<line x1="1520" y1="110" x2="1520" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="1571.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">15</text>
+<text x="1571.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">四</text>
+<line x1="1554" y1="110" x2="1554" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="1605.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">16</text>
+<text x="1605.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">五</text>
+<line x1="1588" y1="110" x2="1588" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<rect x="1622" y="110" width="34" height="1106" fill="#F2F4F7"/>
+<text x="1639.0" y="122" text-anchor="middle" font-size="11" fill="#C0392B">17</text>
+<text x="1639.0" y="134" text-anchor="middle" font-size="10.5" fill="#C0392B">六</text>
+<line x1="1622" y1="110" x2="1622" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<rect x="1656" y="110" width="34" height="1106" fill="#F2F4F7"/>
+<text x="1673.0" y="122" text-anchor="middle" font-size="11" fill="#C0392B">18</text>
+<text x="1673.0" y="134" text-anchor="middle" font-size="10.5" fill="#C0392B">日</text>
+<line x1="1656" y1="110" x2="1656" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="1707.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">19</text>
+<text x="1707.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">一</text>
+<line x1="1690" y1="110" x2="1690" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="1741.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">20</text>
+<text x="1741.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">二</text>
+<line x1="1724" y1="110" x2="1724" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="1775.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">21</text>
+<text x="1775.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">三</text>
+<line x1="1758" y1="110" x2="1758" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="1809.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">22</text>
+<text x="1809.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">四</text>
+<line x1="1792" y1="110" x2="1792" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="1843.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">23</text>
+<text x="1843.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">五</text>
+<line x1="1826" y1="110" x2="1826" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<rect x="1860" y="110" width="34" height="1106" fill="#F2F4F7"/>
+<text x="1877.0" y="122" text-anchor="middle" font-size="11" fill="#C0392B">24</text>
+<text x="1877.0" y="134" text-anchor="middle" font-size="10.5" fill="#C0392B">六</text>
+<line x1="1860" y1="110" x2="1860" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<rect x="1894" y="110" width="34" height="1106" fill="#F2F4F7"/>
+<text x="1911.0" y="122" text-anchor="middle" font-size="11" fill="#C0392B">25</text>
+<text x="1911.0" y="134" text-anchor="middle" font-size="10.5" fill="#C0392B">日</text>
+<line x1="1894" y1="110" x2="1894" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="1945.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">26</text>
+<text x="1945.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">一</text>
+<line x1="1928" y1="110" x2="1928" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="1979.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">27</text>
+<text x="1979.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">二</text>
+<line x1="1962" y1="110" x2="1962" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="2013.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">28</text>
+<text x="2013.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">三</text>
+<line x1="1996" y1="110" x2="1996" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="2047.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">29</text>
+<text x="2047.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">四</text>
+<line x1="2030" y1="110" x2="2030" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<text x="2081.0" y="122" text-anchor="middle" font-size="11" fill="#5A6B80">30</text>
+<text x="2081.0" y="134" text-anchor="middle" font-size="10.5" fill="#5A6B80">五</text>
+<line x1="2064" y1="110" x2="2064" y2="1216" stroke="#E4E9F0" stroke-width="1"/>
+<line x1="2047.0" y1="110" x2="2047.0" y2="1230" stroke="#C0392B" stroke-width="2" stroke-dasharray="7,5"/>
+<text x="2039.0" y="104" text-anchor="end" font-size="13" font-weight="700" fill="#C0392B">▲ 10-29 提交截止</text>
+<rect x="0" y="149" width="2128" height="31" fill="#FFFFFF"/>
+<text x="12" y="168" font-size="13.5" fill="#1F2D3D" font-weight="400">1.1.1　项目章程与治理基线编制</text><text x="244" y="168" font-size="12" fill="#8A97A6">（杨卓屹，TE′=2.03d）</text>
+<rect x="503" y="158" width="96" height="15" rx="3" fill="#C0392B"/>
+<text x="380" y="168" font-size="12" fill="#5A6B80">09-14</text>
+<text x="430" y="168" font-size="12" fill="#5A6B80">09-16</text>
+<rect x="0" y="180" width="2128" height="31" fill="#FBFDFC"/>
+<text x="12" y="199" font-size="13.5" fill="#1F2D3D" font-weight="400">2.1.1　项目目标与范围边界说明</text><text x="244" y="199" font-size="12" fill="#8A97A6">（蒋诗韵，TE′=1.98d）</text>
+<rect x="571" y="189" width="96" height="15" rx="3" fill="#C0392B"/>
+<text x="380" y="199" font-size="12" fill="#5A6B80">09-16</text>
+<text x="430" y="199" font-size="12" fill="#5A6B80">09-18</text>
+<rect x="0" y="211" width="2128" height="31" fill="#FFFFFF"/>
+<text x="12" y="230" font-size="13.5" fill="#1F2D3D" font-weight="400">4.1.1　细化WBS词典与工作包定义</text><text x="244" y="230" font-size="12" fill="#8A97A6">（钱智超，TE′=2.05d）</text>
+<rect x="639" y="220" width="164" height="15" rx="3" fill="#C0392B"/>
+<text x="380" y="230" font-size="12" fill="#5A6B80">09-18</text>
+<text x="430" y="230" font-size="12" fill="#5A6B80">09-22</text>
+<rect x="0" y="242" width="2128" height="31" fill="#FBFDFC"/>
+<text x="12" y="261" font-size="13.5" fill="#1F2D3D" font-weight="400">4.1.2　AON网络图与关键路径建模</text><text x="244" y="261" font-size="12" fill="#8A97A6">（钱智超，TE′=2.05d）</text>
+<rect x="741" y="251" width="96" height="15" rx="3" fill="#AEBED2"/>
+<text x="380" y="261" font-size="12" fill="#5A6B80">09-21</text>
+<text x="430" y="261" font-size="12" fill="#5A6B80">09-23</text>
+<rect x="0" y="273" width="2128" height="31" fill="#FFFFFF"/>
+<text x="12" y="292" font-size="13.5" fill="#1F2D3D" font-weight="400">4.4.1　迈尔斯心理模型(MBTI)岗位匹配</text><text x="244" y="292" font-size="12" fill="#8A97A6">（詹少希，TE′=2.06d）</text>
+<rect x="571" y="282" width="96" height="15" rx="3" fill="#AEBED2"/>
+<text x="380" y="292" font-size="12" fill="#5A6B80">09-16</text>
+<text x="430" y="292" font-size="12" fill="#5A6B80">09-18</text>
+<rect x="0" y="304" width="2128" height="31" fill="#FBFDFC"/>
+<text x="12" y="323" font-size="13.5" fill="#1F2D3D" font-weight="400">4.4.2　角色能力系数表与任务接口</text><text x="244" y="323" font-size="12" fill="#8A97A6">（詹少希，TE′=2.18d）</text>
+<rect x="775" y="313" width="96" height="15" rx="3" fill="#C0392B"/>
+<text x="380" y="323" font-size="12" fill="#5A6B80">09-22</text>
+<text x="430" y="323" font-size="12" fill="#5A6B80">09-24</text>
+<rect x="0" y="335" width="2128" height="31" fill="#FFFFFF"/>
+<text x="12" y="354" font-size="13.5" fill="#1F2D3D" font-weight="700">◆ M1　WBS三章批准</text><text x="244" y="354" font-size="12" fill="#8A97A6">（杨卓屹）</text>
+<text x="380" y="354" font-size="12" fill="#5A6B80">09-24</text>
+<text x="430" y="354" font-size="12" fill="#5A6B80">09-24</text>
+<path d="M 857.0 346 L 866.0 353.5 L 857.0 361 L 848.0 353.5 Z" fill="#C0392B"/>
+<text x="870.0" y="358" font-size="12.5" font-weight="700" fill="#C0392B">M1 WBS三章批准</text>
+<rect x="0" y="366" width="2128" height="31" fill="#FBFDFC"/>
+<text x="12" y="385" font-size="13.5" fill="#1F2D3D" font-weight="400">2.1.2　业务用例图与用例说明</text><text x="244" y="385" font-size="12" fill="#8A97A6">（蒋诗韵，TE′=3.10d）</text>
+<rect x="843" y="375" width="198" height="15" rx="3" fill="#C0392B"/>
+<text x="380" y="385" font-size="12" fill="#5A6B80">09-24</text>
+<text x="430" y="385" font-size="12" fill="#5A6B80">09-29</text>
+<rect x="0" y="397" width="2128" height="31" fill="#FFFFFF"/>
+<text x="12" y="416" font-size="13.5" fill="#1F2D3D" font-weight="400">2.1.3　需求范围双向追踪矩阵</text><text x="244" y="416" font-size="12" fill="#8A97A6">（蒋诗韵，TE′=1.98d）</text>
+<rect x="979" y="406" width="96" height="15" rx="3" fill="#AEBED2"/>
+<text x="380" y="416" font-size="12" fill="#5A6B80">09-28</text>
+<text x="430" y="416" font-size="12" fill="#5A6B80">09-30</text>
+<rect x="0" y="428" width="2128" height="31" fill="#FBFDFC"/>
+<text x="12" y="447" font-size="13.5" fill="#1F2D3D" font-weight="400">2.3.1　三类目标与七项知识域建模</text><text x="244" y="447" font-size="12" fill="#8A97A6">（何亭玉，TE′=2.14d）</text>
+<rect x="843" y="437" width="164" height="15" rx="3" fill="#AEBED2"/>
+<text x="380" y="447" font-size="12" fill="#5A6B80">09-24</text>
+<text x="430" y="447" font-size="12" fill="#5A6B80">09-28</text>
+<rect x="0" y="459" width="2128" height="31" fill="#FFFFFF"/>
+<text x="12" y="478" font-size="13.5" fill="#1F2D3D" font-weight="400">2.3.2　知识条目与标准答复映射</text><text x="244" y="478" font-size="12" fill="#8A97A6">（何亭玉，TE′=2.14d）</text>
+<rect x="1013" y="468" width="96" height="15" rx="3" fill="#AEBED2"/>
+<text x="380" y="478" font-size="12" fill="#5A6B80">09-29</text>
+<text x="430" y="478" font-size="12" fill="#5A6B80">10-01</text>
+<rect x="0" y="490" width="2128" height="31" fill="#FBFDFC"/>
+<text x="12" y="509" font-size="13.5" fill="#1F2D3D" font-weight="400">2.2.1　场景一门诊流程咨询活动图</text><text x="244" y="509" font-size="12" fill="#8A97A6">（蒋诗韵，TE′=2.10d）</text>
+<rect x="1013" y="499" width="96" height="15" rx="3" fill="#AEBED2"/>
+<text x="380" y="509" font-size="12" fill="#5A6B80">09-29</text>
+<text x="430" y="509" font-size="12" fill="#5A6B80">10-01</text>
+<rect x="0" y="521" width="2128" height="31" fill="#FFFFFF"/>
+<text x="12" y="540" font-size="13.5" fill="#1F2D3D" font-weight="400">2.2.2　场景二知识库维护活动图</text><text x="244" y="540" font-size="12" fill="#8A97A6">（蒋诗韵，TE′=2.06d）</text>
+<rect x="1047" y="530" width="96" height="15" rx="3" fill="#AEBED2"/>
+<text x="380" y="540" font-size="12" fill="#5A6B80">09-30</text>
+<text x="430" y="540" font-size="12" fill="#5A6B80">10-02</text>
+<rect x="0" y="552" width="2128" height="31" fill="#FBFDFC"/>
+<text x="12" y="571" font-size="13.5" fill="#1F2D3D" font-weight="400">3.1.1　门诊对话领域模型设计</text><text x="244" y="571" font-size="12" fill="#8A97A6">（王宇坤，TE′=3.16d）</text>
+<rect x="1013" y="561" width="130" height="15" rx="3" fill="#C0392B"/>
+<text x="380" y="571" font-size="12" fill="#5A6B80">09-29</text>
+<text x="430" y="571" font-size="12" fill="#5A6B80">10-02</text>
+<rect x="0" y="583" width="2128" height="31" fill="#FFFFFF"/>
+<text x="12" y="602" font-size="13.5" fill="#1F2D3D" font-weight="400">3.1.2　核心类图与接口方法定义</text><text x="244" y="602" font-size="12" fill="#8A97A6">（王宇坤，TE′=3.17d）</text>
+<rect x="1115" y="592" width="198" height="15" rx="3" fill="#C0392B"/>
+<text x="380" y="602" font-size="12" fill="#5A6B80">10-02</text>
+<text x="430" y="602" font-size="12" fill="#5A6B80">10-07</text>
+<rect x="0" y="614" width="2128" height="31" fill="#FBFDFC"/>
+<text x="12" y="633" font-size="13.5" fill="#1F2D3D" font-weight="400">3.2.1　场景一门诊咨询时序图</text><text x="244" y="633" font-size="12" fill="#8A97A6">（王宇坤，TE′=2.03d）</text>
+<rect x="1285" y="623" width="96" height="15" rx="3" fill="#C0392B"/>
+<text x="380" y="633" font-size="12" fill="#5A6B80">10-07</text>
+<text x="430" y="633" font-size="12" fill="#5A6B80">10-09</text>
+<rect x="0" y="645" width="2128" height="31" fill="#FFFFFF"/>
+<text x="12" y="664" font-size="13.5" fill="#1F2D3D" font-weight="400">3.2.2　场景二知识库维护时序图</text><text x="244" y="664" font-size="12" fill="#8A97A6">（王宇坤，TE′=2.03d）</text>
+<rect x="1319" y="654" width="164" height="15" rx="3" fill="#C0392B"/>
+<text x="380" y="664" font-size="12" fill="#5A6B80">10-08</text>
+<text x="430" y="664" font-size="12" fill="#5A6B80">10-12</text>
+<rect x="0" y="676" width="2128" height="31" fill="#FBFDFC"/>
+<text x="12" y="695" font-size="13.5" fill="#1F2D3D" font-weight="400">3.3.1　四个关键问题四段式分析</text><text x="244" y="695" font-size="12" fill="#8A97A6">（张天乐，TE′=2.16d）</text>
+<rect x="1115" y="685" width="164" height="15" rx="3" fill="#AEBED2"/>
+<text x="380" y="695" font-size="12" fill="#5A6B80">10-02</text>
+<text x="430" y="695" font-size="12" fill="#5A6B80">10-06</text>
+<rect x="0" y="707" width="2128" height="31" fill="#FFFFFF"/>
+<text x="12" y="726" font-size="13.5" fill="#1F2D3D" font-weight="400">3.3.2　三层技术路线与工具选型</text><text x="244" y="726" font-size="12" fill="#8A97A6">（张天乐，TE′=2.17d）</text>
+<rect x="1285" y="716" width="96" height="15" rx="3" fill="#AEBED2"/>
+<text x="380" y="726" font-size="12" fill="#5A6B80">10-07</text>
+<text x="430" y="726" font-size="12" fill="#5A6B80">10-09</text>
+<rect x="0" y="738" width="2128" height="31" fill="#FBFDFC"/>
+<text x="12" y="757" font-size="13.5" fill="#1F2D3D" font-weight="400">4.3.1　全周期风险识别与定级</text><text x="244" y="757" font-size="12" fill="#8A97A6">（钱智超，TE′=1.97d）</text>
+<rect x="843" y="747" width="164" height="15" rx="3" fill="#AEBED2"/>
+<text x="380" y="757" font-size="12" fill="#5A6B80">09-24</text>
+<text x="430" y="757" font-size="12" fill="#5A6B80">09-28</text>
+<rect x="0" y="769" width="2128" height="31" fill="#FFFFFF"/>
+<text x="12" y="788" font-size="13.5" fill="#1F2D3D" font-weight="400">4.3.2　风险应对策略与登记册闭环</text><text x="244" y="788" font-size="12" fill="#8A97A6">（钱智超，TE′=2.05d）</text>
+<rect x="1285" y="778" width="96" height="15" rx="3" fill="#AEBED2"/>
+<text x="380" y="788" font-size="12" fill="#5A6B80">10-07</text>
+<text x="430" y="788" font-size="12" fill="#5A6B80">10-09</text>
+<rect x="0" y="800" width="2128" height="31" fill="#FBFDFC"/>
+<text x="12" y="819" font-size="13.5" fill="#1F2D3D" font-weight="700">◆ M2　系统原型方案评审通过</text><text x="244" y="819" font-size="12" fill="#8A97A6">（杨卓屹）</text>
+<text x="380" y="819" font-size="12" fill="#5A6B80">10-13</text>
+<text x="430" y="819" font-size="12" fill="#5A6B80">10-13</text>
+<path d="M 1503.0 811 L 1512.0 818.5 L 1503.0 826 L 1494.0 818.5 Z" fill="#C0392B"/>
+<text x="1516.0" y="823" font-size="12.5" font-weight="700" fill="#C0392B">M2 系统原型方案评审通过</text>
+<rect x="0" y="831" width="2128" height="31" fill="#FFFFFF"/>
+<text x="12" y="850" font-size="13.5" fill="#1F2D3D" font-weight="400">2.2.3　任务资源预分配表(人力侧)</text><text x="244" y="850" font-size="12" fill="#8A97A6">（蒋诗韵，TE′=2.06d）</text>
+<rect x="1455" y="840" width="96" height="15" rx="3" fill="#C0392B"/>
+<text x="380" y="850" font-size="12" fill="#5A6B80">10-12</text>
+<text x="430" y="850" font-size="12" fill="#5A6B80">10-14</text>
+<rect x="0" y="862" width="2128" height="31" fill="#FBFDFC"/>
+<text x="12" y="881" font-size="13.5" fill="#1F2D3D" font-weight="400">2.3.3　成本费率与蒙特卡洛估算</text><text x="244" y="881" font-size="12" fill="#8A97A6">（何亭玉，TE′=2.28d）</text>
+<rect x="1523" y="871" width="198" height="15" rx="3" fill="#C0392B"/>
+<text x="380" y="881" font-size="12" fill="#5A6B80">10-14</text>
+<text x="430" y="881" font-size="12" fill="#5A6B80">10-19</text>
+<rect x="0" y="893" width="2128" height="31" fill="#FFFFFF"/>
+<text x="12" y="912" font-size="13.5" fill="#1F2D3D" font-weight="400">4.2.1　PERT三点估算表编制</text><text x="244" y="912" font-size="12" fill="#8A97A6">（钱智超，TE′=2.06d）</text>
+<rect x="1455" y="902" width="96" height="15" rx="3" fill="#AEBED2"/>
+<text x="380" y="912" font-size="12" fill="#5A6B80">10-12</text>
+<text x="430" y="912" font-size="12" fill="#5A6B80">10-14</text>
+<rect x="0" y="924" width="2128" height="31" fill="#FBFDFC"/>
+<text x="12" y="943" font-size="13.5" fill="#1F2D3D" font-weight="400">4.2.2　项目调度计划与甘特图绘制</text><text x="244" y="943" font-size="12" fill="#8A97A6">（钱智超，TE′=2.05d）</text>
+<rect x="1523" y="933" width="96" height="15" rx="3" fill="#AEBED2"/>
+<text x="380" y="943" font-size="12" fill="#5A6B80">10-14</text>
+<text x="430" y="943" font-size="12" fill="#5A6B80">10-16</text>
+<rect x="0" y="955" width="2128" height="31" fill="#FFFFFF"/>
+<text x="12" y="974" font-size="13.5" fill="#1F2D3D" font-weight="400">3.2.3　时间成本双目标动态规划建模</text><text x="244" y="974" font-size="12" fill="#8A97A6">（王宇坤，TE′=3.23d）</text>
+<rect x="1693" y="964" width="130" height="15" rx="3" fill="#C0392B"/>
+<text x="380" y="974" font-size="12" fill="#5A6B80">10-19</text>
+<text x="430" y="974" font-size="12" fill="#5A6B80">10-22</text>
+<rect x="0" y="986" width="2128" height="31" fill="#FBFDFC"/>
+<text x="12" y="1005" font-size="13.5" fill="#1F2D3D" font-weight="400">3.3.3　动态规划扰动法求解与验证</text><text x="244" y="1005" font-size="12" fill="#8A97A6">（张天乐，TE′=2.30d）</text>
+<rect x="1795" y="995" width="164" height="15" rx="3" fill="#C0392B"/>
+<text x="380" y="1005" font-size="12" fill="#5A6B80">10-22</text>
+<text x="430" y="1005" font-size="12" fill="#5A6B80">10-26</text>
+<rect x="0" y="1017" width="2128" height="31" fill="#FFFFFF"/>
+<text x="12" y="1036" font-size="13.5" fill="#1F2D3D" font-weight="400">1.2.1　汇报提纲与叙事逻辑设计</text><text x="244" y="1036" font-size="12" fill="#8A97A6">（林泽楷，TE′=2.14d）</text>
+<rect x="1455" y="1026" width="96" height="15" rx="3" fill="#AEBED2"/>
+<text x="380" y="1036" font-size="12" fill="#5A6B80">10-12</text>
+<text x="430" y="1036" font-size="12" fill="#5A6B80">10-14</text>
+<rect x="0" y="1048" width="2128" height="31" fill="#FBFDFC"/>
+<text x="12" y="1067" font-size="13.5" fill="#1F2D3D" font-weight="400">1.3.1　汇报PPT白模框架搭建</text><text x="244" y="1067" font-size="12" fill="#8A97A6">（杨卓屹，TE′=2.06d）</text>
+<rect x="1591" y="1057" width="164" height="15" rx="3" fill="#AEBED2"/>
+<text x="380" y="1067" font-size="12" fill="#5A6B80">10-16</text>
+<text x="430" y="1067" font-size="12" fill="#5A6B80">10-20</text>
+<rect x="0" y="1079" width="2128" height="31" fill="#FFFFFF"/>
+<text x="12" y="1098" font-size="13.5" fill="#1F2D3D" font-weight="400">1.1.2　项目管理计划汇编与总审</text><text x="244" y="1098" font-size="12" fill="#8A97A6">（杨卓屹，TE′=2.12d）</text>
+<rect x="1591" y="1088" width="164" height="15" rx="3" fill="#AEBED2"/>
+<text x="380" y="1098" font-size="12" fill="#5A6B80">10-16</text>
+<text x="430" y="1098" font-size="12" fill="#5A6B80">10-20</text>
+<rect x="0" y="1110" width="2128" height="31" fill="#FBFDFC"/>
+<text x="12" y="1129" font-size="13.5" fill="#1F2D3D" font-weight="400">1.2.2　逐页讲稿撰写与答辩题库</text><text x="244" y="1129" font-size="12" fill="#8A97A6">（林泽楷，TE′=2.22d）</text>
+<rect x="1523" y="1119" width="198" height="15" rx="3" fill="#AEBED2"/>
+<text x="380" y="1129" font-size="12" fill="#5A6B80">10-14</text>
+<text x="430" y="1129" font-size="12" fill="#5A6B80">10-19</text>
+<rect x="0" y="1141" width="2128" height="31" fill="#FFFFFF"/>
+<text x="12" y="1160" font-size="13.5" fill="#1F2D3D" font-weight="400">1.3.2　汇报PPT全案定稿与预演</text><text x="244" y="1160" font-size="12" fill="#8A97A6">（杨卓屹，TE′=2.15d）</text>
+<rect x="1727" y="1150" width="130" height="15" rx="3" fill="#AEBED2"/>
+<text x="380" y="1160" font-size="12" fill="#5A6B80">10-20</text>
+<text x="430" y="1160" font-size="12" fill="#5A6B80">10-23</text>
+<rect x="0" y="1172" width="2128" height="31" fill="#FBFDFC"/>
+<text x="12" y="1191" font-size="13.5" fill="#1F2D3D" font-weight="700">◆ M3　提交作业/项目收尾</text><text x="244" y="1191" font-size="12" fill="#8A97A6">（杨卓屹）</text>
+<text x="380" y="1191" font-size="12" fill="#5A6B80">10-27</text>
+<text x="430" y="1191" font-size="12" fill="#5A6B80">10-27</text>
+<path d="M 1979.0 1183 L 1988.0 1190.5 L 1979.0 1198 L 1970.0 1190.5 Z" fill="#C0392B"/>
+<text x="1992.0" y="1195" font-size="12.5" font-weight="700" fill="#C0392B">M3 提交作业/项目收尾</text>
+<text x="12" y="1252" font-size="13" fill="#5A6B80">口径：条长=《三点估算表_v1》TE′（含能力系数 K 调整，引自詹少希《能力系数表_v1》引用台账第 2 条：条长采用③的 TE′，不重复乘 K）；Start=⌊ES⌋、End=⌈EF⌉−1 工作日；灰底列=周六/周日（非工作日）。</text>
+<text x="12" y="1272" font-size="13" fill="#5A6B80">v1→v2 变更：31 项活动条长全部改为 TE′ 口径（v1 与三点估算表不一致，如 3.1.2 图上 4.67d vs 表 3.17d）；日期按 2026-09-14 周一开工、周一至周五工作制重新映射；补充 10-29 截止线。</text>
+</svg>
