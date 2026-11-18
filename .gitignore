@@ -6,8 +6,9 @@ _work/
 .preview/
 .slidep/
 pptx_unzip/
-docs/_backup/
+**/_backup/
 .workbuddy/
+PPT编辑_中间产物/
 *.tmp
 
 # 临时文本文件
@@ -37,7 +38,7 @@ p8_wbs.md
 PPT美化_Skill选型清单_*.md
 
 # 提交包归档（180MB，不进 git）
-第二次作业/
+02_第二次作业_管理计划与汇报_20261015/第二次作业_原始归档/
 
 # 预览图（可由 PPT 重新导出）
 预览_*.png
