@@ -14,6 +14,10 @@ docs/_backup/
 .tmp_*.txt
 _git_status.txt
 _git_remote.txt
+_p.txt
+
+# 课件（老师版权材料，不入库）
+课件_老师PPT/
 
 # 脚本与提示词草稿
 add_images.py
